@@ -6,8 +6,8 @@
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src=https://github.com/akshitsgn/Smart-Shelf/blob/master/49066df7-0856-4498-b8a1-851b4f525438.jpg" alt="Home Screen" width="150"/>
-  <img src="https://github.com/akshitsgn/Smart-Shelf/blob/master/49066df7-0856-4498-b8a1-851b4f525438.jpg" alt="Recommendations" width="150"/>
+  <img src="https://github.com/akshitsgn/Smart-Shelf/blob/master/49066df7-0856-4498-b8a1-851b4f525438.jpg" alt="Home Screen" width="150"/>
+  <img src="https://github.com/akshitsgn/Smart-Shelf/blob/master/9e8458e9-5c1b-4544-8342-24a8941cad0f.jpg" alt="Recommendations" width="150"/>
   <img src="https://github.com/akshitsgn/Smart-Shelf/blob/master/5a547d9d-857a-457f-8828-363904857fe5.jpg" alt="ChatBot Assistant" width="150"/>
   <img src="https://github.com/akshitsgn/Smart-Shelf/blob/master/b4c10049-2207-4206-8677-fe97d3db5892.jpg" alt="ChatBot Assistant" width="150"/>
 </p>
