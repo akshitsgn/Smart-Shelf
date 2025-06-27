@@ -1,4 +1,4 @@
-# 📚 SmartReads – Book Recommendation App
+# 📚 Smart-Shelf – Book Recommendation App
 
 ## 🔍 Project Overview  
 **SmartReads** is an intelligent book recommendation Android app that uses **Google's Gemini AI** to suggest personalized books based on the user's reading history and preferences. The app provides a conversational chatbot assistant to enhance discovery and reading experiences through voice-based queries.
